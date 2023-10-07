@@ -1,1 +1,5 @@
-# infinite
+## infinite
+
+```
+node main.js
+```
